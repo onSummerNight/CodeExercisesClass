@@ -1,2 +1,2 @@
 # CodeExercisesClass
-This is for java code exerces classes involved (class beside Main)
+This is for java code exercises classes involved (class beside Main)
